@@ -90,4 +90,83 @@ context_url: "https://x.com/chandlerhaueter/status/..."
 
 MIT — © 2025 **gwas.ai**
 
+## GWAS Footer (v1 — Ecosystem Unified)
+
+### **PRODUCTS**
+
+* [GWAS Chat](https://gwas.chat) — LLM conversation archive
+* [GWAS Docs](https://docs.gwas.ai) — Documentation hub
+* [GWAS Sheet](https://sheet.gwas.chat) — Structured data tables
+* [GWAS App](https://gwas.app) — Local-first desktop + mobile
+* [GWAS Feedback](https://gwas.feedback) — Surveys + evaluation
+* [GWAS Network](https://gwas.network) — Node graph + identity
+* [GWAS Market](https://gwas.market) — Auctions & prediction tools
+* [GWAS Registry](https://mcp.gwas.ai) — MCP + API registry
+
+---
+
+### **SUPPORT**
+
+* [Help Center](https://help.gwas.ai)
+* [Knowledge Base](https://docs.gwas.ai/support)
+* [Feedback Portal](https://feedback.gwas.ai)
+* [Status Page](https://status.gwas.ai)
+* [Contact](mailto:support@gwas.ai)
+
+---
+
+### **TOOLS**
+
+* [Conversation Search](https://search.gwas.chat)
+* [Prompt Index](https://index.gwas.chat)
+* [Model Playground](https://labs.gwas.ai)
+* [Spec Viewer](https://spec.gwas.ai)
+* [API Access](https://api.gwas.ai)
+
+---
+
+### **OUR COMPANY**
+
+* [About GWAS.ai](https://gwas.ai/about)
+* [Blog](https://blog.gwas.ai)
+* [Careers](https://jobs.gwas.ai)
+* [Branding Guidelines](https://brand.gwas.ai)
+* [Privacy & Terms](https://legal.gwas.ai)
+
+---
+
+### **ACCOUNT**
+
+* [My Profile](https://id.gwas.ai)
+* [Billing & API Keys](https://billing.gwas.ai)
+* [Settings](https://settings.gwas.ai)
+* [Logout](https://id.gwas.ai/logout)
+
+---
+
+### **FOLLOW**
+
+[GitHub](https://github.com/gwas-ai) · [X (Twitter)](https://x.com/chandlerhaueter) · [YouTube](https://www.youtube.com/@chandler-haueter) · [LinkedIn](https://linkedin.com/in/chandlerhaueter)
+
+---
+
+**© 2025 gwas.ai — MIT Licensed**
+See also: [sheet.gwas.chat](https://sheet.gwas.chat) · [docs.gwas.ai](https://docs.gwas.ai) · [feedback.gwas.ai](https://feedback.gwas.ai)
+
+---
+
+### DESIGN NOTE
+
+For a UI layout:
+
+* Use **four columns** with headings identical to the sections above.
+* Each link in **red hover** (#ff4d4d) on dark background (#111).
+* Social/payment icons in a **bottom bar**, e.g.:
+
+`GitHub · X · YouTube · Apple Pay · Google Pay · Bitcoin · Stripe`
+
+---
+
+Would you like me to output this as an **HTML + Tailwind footer component** (ready for GitHub Pages or Deno Fresh)?
+
 **See also:** [https://gwas.chat](https://gwas.chat) · [https://sheet.gwas.chat](https://sheet.gwas.chat) · [https://docs.gwas.ai](https://docs.gwas.chat)
